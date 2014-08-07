@@ -1,5 +1,9 @@
 # ruby-rails-sample
 
+This repository has been customized to run on Docker. 
+
+See the [post](http://thenewstack.io/?p=2944) on TheNewStack.io for more information
+
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 This is a simple Ruby app using the [Rails](http://rubyonrails.org) framework.
